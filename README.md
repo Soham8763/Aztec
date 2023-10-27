@@ -1,0 +1,1 @@
+This is a front-end developement project of mine where I professionally design a website with the help of "Sheryians coding school" as well as "Shery.js" which is a javascript library helps in making websites animate
